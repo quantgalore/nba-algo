@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 11 12:03:04 2024
+Created in 2024
 
-@author: Local User
+@author: Quant Galore
 """
 
 import requests
